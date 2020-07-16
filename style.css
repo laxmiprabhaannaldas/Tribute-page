@@ -1,0 +1,45 @@
+#main{
+	background-color: #bfbfbf;
+	color: #ff5500	;
+	font-size: 20px;
+	box-sizing: border-box;
+}
+#image{
+	border-style: solid;
+	color: orange;
+	border-radius: 50%;
+	height: auto;
+	width: 30%;
+}
+#tribute-link{
+	color: blue;
+}
+#tribute-link:hover{
+	color: #ff3300;
+}
+
+.p1{
+	text-align: left;	
+	margin-left: 550px;
+}
+hr{
+	background-color:  black;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+ 	#main{
+		width: 100%;
+		float: none;
+	}
+	#image{
+		margin-left: 0px;
+		width:  50%;
+		height: auto;
+	}	
+	.p1{
+		text-align: left;
+		margin-left: 0px;
+	}
+}
