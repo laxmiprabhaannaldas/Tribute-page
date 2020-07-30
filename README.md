@@ -1,4 +1,5 @@
 #Tribute page
+
 Here is the Tribute page of chhatrapati Shivaji Maharaj. Approaches that I used while developing the Tribute page: 
 
 A. Steps that I follwed for designing the basic html page without any styles.
